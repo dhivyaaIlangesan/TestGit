@@ -1,0 +1,1 @@
+This is the file created to test to learn how to commit file from local to GIT
